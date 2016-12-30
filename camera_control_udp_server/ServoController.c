@@ -8,7 +8,6 @@
  ============================================================================
  */
 
-#include <stdio.h>
 #include "ServoController.h"
 
 double xDegreeToLevel;

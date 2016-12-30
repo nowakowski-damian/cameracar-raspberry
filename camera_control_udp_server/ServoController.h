@@ -13,6 +13,7 @@
 
 #include <wiringPi.h>
 #include <unistd.h>
+#include <stdio.h>
 
 // PIN SETTINGS ( pin numbers in wiringPi numbering format )
 #define SERVO_X_PIN 26
